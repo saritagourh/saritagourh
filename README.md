@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saritagourh&label=Profile%20views&color=0e75b6&style=flat" alt="saritagourh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saritagourh" alt="saritagourh" /></a> </p>
 
 - 🔭 I’m currently worked on **Payment Integration**
 
