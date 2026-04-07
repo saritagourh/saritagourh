@@ -1,4 +1,5 @@
-![Code Banner](https://github.com/user-attachments/assets/dbce9c57-fb39-4794-8a00-bd32f3ac88f4)
+![Code Banner](https://github.com/user-attachments/assets/884d69a6-6a4b-4455-a2a7-67d594a5e1c6)
+
 <h1 align="center">Hi 👋, I'm Sarita Gourh</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 
